@@ -1,5 +1,5 @@
 # Awesome-AI-Agent-Prompts
-A collection of prompts, instructions and Agent systemprompts for AI (Agents)
+A collection of prompts, instructions and Agent system prompts for AI (Agents)
 
 ## Directories
 - `prompts` can be used or referenced when starting a new conversation with an AI (Agent)
