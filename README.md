@@ -7,7 +7,7 @@ A collection of prompts, instructions and Agent system prompts for AI (Agents)
 - `chatmodes` can be used to define custom AI Agents for a specific task
 
 ## Spec-Driven Development with Kiro
-The `kiro-workflow` prompt mimics the Workflow that is used by the Kiro IDE (https://kiro.dev)
+The [`kiro-workflow`](https://github.com/nvnoorloos/Awesome-AI-Agent-Prompts/blob/main/prompts/kiro-workflow-v1.prompt.md) prompt mimics the Workflow that is used by the Kiro IDE (https://kiro.dev)
 
 - It starts with creating your `requirements.md`
 - After your requirements are fine, the `design.md` is being created
