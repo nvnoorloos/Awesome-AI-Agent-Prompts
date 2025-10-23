@@ -6,6 +6,8 @@ A collection of prompts, instructions and Agent system prompts for AI (Agents)
 - `instructions` contains AGENTS.md style files (https://agents.md/) for AI Agents
 - `chatmodes` can be used to define custom AI Agents for a specific task
 
+_NOTE: Use the raw Markdown when copy/pasting the files to your AI (Agent)_
+
 ## Spec-Driven Development with Kiro
 The [`kiro-workflow`](https://github.com/nvnoorloos/Awesome-AI-Agent-Prompts/blob/main/prompts/kiro-workflow-v1.prompt.md) prompt mimics the Workflow that is used by the Kiro IDE (https://kiro.dev)
 
